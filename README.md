@@ -38,13 +38,6 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/c0d3r-m33t/c0d3r-m33t/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
 
 <hr/>
 
@@ -54,7 +47,7 @@
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app?user=Gulshankhemani&theme=dark)](https://git.io/streak-stats" alt="streak stats"/>
     <br />
     <br />
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Gulshanknhemani&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gulshankhemani&layout=pie)](https://github.com/Gulshankhemani/github-readme-stats) />
 </div>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Connect+with+me+on+LinkedIn" />
