@@ -1,6 +1,6 @@
 [![MasterHead](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263)](https://roshmeet.netlify.app)
 <h1 align="center">
-        <img src=(https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+my+name+is+Gulshan+Khemani+)>
+        <img src=(https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+my+name+is+Gulshan+Khemani+
 
 </h1>
 
