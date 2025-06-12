@@ -6,15 +6,15 @@
 
 </h1>
 
-<h3 align="center">Student at Manipal University Jaipur</h3>
+<h3 align="center">Working at BigStep</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on a Project of Amazon-Clone.
+ 🔭 I’m currently working as Support person in BigStep Company.
  
- 🌱 I’m currently learning **React.js, Node.js, Python**
+ 🌱 I’m currently learning **NEXT.js**
 
 ⚡ Fun fact **I love java as he is my pet**
 
@@ -34,7 +34,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,cpp,npm," />
+    <img src="https://skillicons.dev/icons?i=C, HTML" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,c,java,mysql" /><br>
 </div>
 
