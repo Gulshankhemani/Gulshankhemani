@@ -34,8 +34,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=css,figma,git,github,html,mongodb,npm,postman,react,redux" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,c,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=css,figma,git,github,html,mongodb,npm,postman,react,redux,replit,wordpress,androidstudio,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,c,java,mysql,tailwind,threejs,vite,vscode" /><br>
 </div>
 
 <br/>
@@ -47,9 +47,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app?user=Gulshankhemani&theme=dark)](https://git.io/streak-stats" alt="streak stats"/>
-    <br />
-    <br />
+  <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gulshankhemani&layout=pie)](https://github.com/Gulshankhemani/github-readme-stats) />
 </div>
 <h1 align="center">
